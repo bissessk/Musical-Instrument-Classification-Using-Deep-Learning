@@ -1,4 +1,4 @@
-# Musical-Intrument-Classification-Using-Deep-Learning
+# Musical-Instrument-Classification-Using-Deep-Learning
 This project involves classifying musical instruments given a sample of music. The goal was to determine which instrument (e.g. trumpet, violin, piano) is playing.
 
 The datasets used came from
